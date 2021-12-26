@@ -1,0 +1,16 @@
+F:\RD\Logs\Server\Client\bin\Debug\net5.0\Client.exe
+F:\RD\Logs\Server\Client\bin\Debug\net5.0\Client.deps.json
+F:\RD\Logs\Server\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+F:\RD\Logs\Server\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+F:\RD\Logs\Server\Client\bin\Debug\net5.0\Client.dll
+F:\RD\Logs\Server\Client\bin\Debug\net5.0\ref\Client.dll
+F:\RD\Logs\Server\Client\bin\Debug\net5.0\Client.pdb
+F:\RD\Logs\Server\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+F:\RD\Logs\Server\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\RD\Logs\Server\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+F:\RD\Logs\Server\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+F:\RD\Logs\Server\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+F:\RD\Logs\Server\Client\obj\Debug\net5.0\Client.dll
+F:\RD\Logs\Server\Client\obj\Debug\net5.0\ref\Client.dll
+F:\RD\Logs\Server\Client\obj\Debug\net5.0\Client.pdb
+F:\RD\Logs\Server\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
