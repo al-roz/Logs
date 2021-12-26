@@ -61,7 +61,7 @@ namespace Server
             StringBuilder result = new StringBuilder();
             for (int i = logs.Count - 1; i >= 0; i--)
             {
-                result.Append(logs[i].data + "\t" + logs[i].messageType + logs[i].anotherInfo + "\n\n");
+                result.Append(logs[i].logID + "::" + logs[i].data + "\t" + logs[i].messageType + logs[i].anotherInfo + "\n\n");
             }
 
             return result.ToString();
